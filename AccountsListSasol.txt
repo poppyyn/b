@@ -1,0 +1,9 @@
+<<<<<<< AccountsListSasol.txt
+siema
+costamzmienione w sasolu
+elo
+=======
+siema 
+elo
+hej
+>>>>>>> AccountsListCore.txt
